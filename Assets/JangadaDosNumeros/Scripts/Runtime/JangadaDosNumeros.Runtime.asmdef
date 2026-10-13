@@ -1,0 +1,9 @@
+{
+  "name": "JangadaDosNumeros.Runtime",
+  "rootNamespace": "JangadaDosNumeros.Runtime",
+  "references": [
+    "JangadaDosNumeros.Core"
+  ],
+  "autoReferenced": true
+}
+

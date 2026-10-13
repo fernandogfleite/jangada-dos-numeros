@@ -1,0 +1,16 @@
+{
+  "name": "JangadaDosNumeros.EditModeTests",
+  "rootNamespace": "JangadaDosNumeros.Tests",
+  "references": [
+    "JangadaDosNumeros.Core",
+    "JangadaDosNumeros.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}
+
